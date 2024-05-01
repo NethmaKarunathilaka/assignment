@@ -7,7 +7,7 @@ document.body.appendChild(renderer.domElement);
 
 // Define orbits for planets
 const orbits = {
-    mercury: { radius: 2, speed: 0.02 },
+    mercury: { radius: 3, speed: 0.02 },
     venus: { radius: 4, speed: 0.015 },
     earth: { radius: 6, speed: 0.01 },
     mars: { radius: 8, speed: 0.008 },
